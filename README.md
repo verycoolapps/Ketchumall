@@ -166,6 +166,23 @@ Mr.-Ketchum/
 
 ---
 
+## 🤖 PLUGIN INTEGRATION
+
+**EN** — POKÉMON TCG WARFORGE works as a plugin for Claude Skills, GPT Plugins, custom agents, and RAG systems. See `PLUGIN-GUIDE.md` for installation and integration.
+
+**ID** — POKÉMON TCG WARFORGE berfungsi sebagai plugin untuk Claude Skills, GPT Plugins, custom agents, dan sistem RAG. Lihat `PLUGIN-GUIDE.md` untuk instalasi dan integrasi.
+
+```bash
+# Clone and use
+git clone https://github.com/verycoolapps/Mr.-Ketchum.git
+
+# Or copy skill folder
+cp -r pokemon-tcg-warforge ~/.claude/skills/
+```
+
+**Plugin manifest:** `plugin.json` — defines activation triggers, modes, personas, and compatibility.
+
+
 ## 🚀 QUICK START
 
 **EN** — Copy `pokemon-tcg-warforge/` into your agent's skills directory, then invoke naturally.

@@ -1,0 +1,103 @@
+{
+  "name": "pokemon-tcg-warforge",
+  "version": "1.0.0",
+  "description": "Elite Pokémon TCG competitive intelligence — deck building, matchup analysis, meta research, probability math, tournament prep.",
+  "author": "VeryCoolApps",
+  "license": "MIT",
+  "keywords": [
+    "pokemon",
+    "tcg",
+    "deck-building",
+    "strategy",
+    "competitive",
+    "tournament",
+    "trading-card-game",
+    "decklist",
+    "matchup",
+    "metagame",
+    "probability",
+    "intelligence"
+  ],
+  "category": "gaming",
+  "tags": [
+    "pokemon-tcg",
+    "deck-building",
+    "competitive-strategy",
+    "tournament-prep",
+    "card-game",
+    "elite-intelligence"
+  ],
+  "skills": [
+    {
+      "name": "pokemon-tcg-warforge",
+      "description": "Complete Pokémon TCG competitive intelligence system",
+      "path": "pokemon-tcg-warforge/SKILL.md",
+      "references": "pokemon-tcg-warforge/references/",
+      "examples": "pokemon-tcg-warforge/examples/",
+      "qa": "pokemon-tcg-warforge/qa/"
+    }
+  ],
+  "activation_triggers": [
+    "pokemon tcg",
+    "pokemon deck",
+    "tcg deck",
+    "deck building",
+    "decklist",
+    "pokemon strategy",
+    "pokemon tournament",
+    "pokemon competitive",
+    "pokemon matchup",
+    "pokemon meta",
+    "trading card game",
+    "card game strategy",
+    "pokemon probability",
+    "pokemon analysis"
+  ],
+  "operating_modes": [
+    "beginner",
+    "advanced",
+    "competitive",
+    "grandmaster",
+    "budget",
+    "collection",
+    "antimeta",
+    "doctor"
+  ],
+  "personas": [
+    "Grandmaster Strategist",
+    "Master Deck Architect",
+    "Metagame Intelligence Analyst",
+    "Probability & Mathematics Specialist",
+    "Card Interaction Specialist",
+    "Tournament War Room"
+  ],
+  "quality_gates": 10,
+  "scoring_system": "100-point rubric across 10 dimensions",
+  "integrity_protocol": "Evidence-based, no fabrication, source-verified",
+  "supported_formats": [
+    "Standard",
+    "Expanded",
+    "Unlimited",
+    "Pokémon TCG Live"
+  ],
+  "documentation": {
+    "readme": "README.md",
+    "skill": "pokemon-tcg-warforge/SKILL.md",
+    "references": "pokemon-tcg-warforge/references/",
+    "examples": "pokemon-tcg-warforge/examples/",
+    "qa": "pokemon-tcg-warforge/qa/"
+  },
+  "marketplace": {
+    "category": "gaming",
+    "subcategory": "trading-card-games",
+    "audience": [
+      "competitive-players",
+      "tournament-goers",
+      "deck-builders",
+      "pokemon-fans",
+      "card-game-enthusiasts"
+    ],
+    "difficulty": "intermediate",
+    "language": ["en", "id"]
+  }
+}
